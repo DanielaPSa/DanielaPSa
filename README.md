@@ -3,6 +3,7 @@
 
 Estou estudando programação, me especializando em Front-end e
 sempre em busca de melhorias para fortalecer meu aprendizado. 
+
 💻🥰
 
 <div style="display: inline_block"><br>
