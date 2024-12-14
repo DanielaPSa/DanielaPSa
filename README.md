@@ -2,7 +2,8 @@
 
 
 Estou estudando programação, me especializando em Front-end e
-sempre em busca de melhorias para fortalecer meu aprendizado. 💻🥰
+sempre em busca de melhorias para fortalecer meu aprendizado. 
+💻🥰
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
