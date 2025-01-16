@@ -1,9 +1,13 @@
 ## Olá ! Eu sou Daniela Sá !
 
 
-Estou estudando programação, me especializando em Front-end e
-sempre em busca de melhorias para fortalecer meu aprendizado. 
+Durante anos, atuei como autônoma, trabalhando com vendas de bolos e administrando um brechó. Sou graduada em Tecnologia em Gestão de Recursos Humanos, mas sempre senti que faltava algo. Minha paixão por tecnologia me levou a abraçar um novo caminho: estudar programação.
 
+Hoje, sou uma desenvolvedora iniciante em front-end, dedicada a criar soluções que aliam funcionalidade e design. Tenho me aprofundado em HTML, CSS e JavaScript, desenvolvendo projetos pessoais que refletem meu aprendizado constante e minha paixão pela área.
+
+Minha transição para a tecnologia é guiada pelo desejo de aprender e evoluir. Levo comigo habilidades de gestão, empreendedorismo e um forte senso de determinação. Agora, estou pronta para contribuir com empresas que valorizem a inovação e as pessoas.
+
+Estou em busca de oportunidades para continuar crescendo no universo da tecnologia e provar que, com determinação, não há limites para aprender e recomeçar.
 💻🥰
 
 <div style="display: inline_block"><br>
