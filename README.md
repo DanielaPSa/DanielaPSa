@@ -1,23 +1,14 @@
 ## Olá ! Eu sou Daniela Sá !
 
 
-Durante anos, atuei como autônoma, trabalhando com vendas de bolos e administrando um brechó. Sou graduada em Tecnologia em Gestão de Recursos Humanos, mas sempre senti que faltava algo. Minha paixão por tecnologia me levou a abraçar um novo caminho: estudar programação.
+Olá! Sou a Daniela, estudante de Desenvolvimento de Sistemas com foco em Backend. Gosto de transformar ideias em soluções reais e estou construindo minha jornada na tecnologia com muita prática, curiosidade e consistência.
 
-Hoje, sou uma desenvolvedora iniciante em front-end, dedicada a criar soluções que aliam funcionalidade e design. Tenho me aprofundado em HTML, CSS e JavaScript, desenvolvendo projetos pessoais que refletem meu aprendizado constante e minha paixão pela área.
+Atualmente, desenvolvo meus projetos usando Python e trabalho com MySQL para organização e persistência de dados. Venho me aprofundando em conceitos de lógica, API, boas práticas e estrutura de sistemas, sempre buscando escrever código limpo e funcional.
 
-Minha transição para a tecnologia é guiada pelo desejo de aprender e evoluir. Levo comigo habilidades de gestão, empreendedorismo e um forte senso de determinação. Agora, estou pronta para contribuir com empresas que valorizem a inovação e as pessoas.
+Para acelerar meu aprendizado, participei de bootcamps e formações práticas, onde pude reforçar minhas bases, aprender com a comunidade e exercitar o que estudo no dia a dia. Além disso, desenvolvo projetos pessoais, que estão me ajudando a evoluir em versionamento, organização de código e resolução de problemas do mundo real.
 
-Estou em busca de oportunidades para continuar crescendo no universo da tecnologia e provar que, com determinação, não há limites para aprender e recomeçar.
-💻🥰
+Estou em busca de uma oportunidade para atuar como Desenvolvedora Backend, contribuindo com equipes que valorizem aprendizado contínuo, colaboração e crescimento.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dani-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
- 
-</div>
 
 ##
   
